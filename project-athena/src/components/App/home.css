@@ -1,0 +1,21 @@
+/* this is not grabbing these styles : will fix later */
+
+
+  .container {
+        
+         margin-top: 10%;
+         width: 50vw; 
+        height: 40vh ;
+         background-color: #FFBBBB;
+      
+    
+   }
+
+  .container h1{
+    color:white;
+    padding-top: 20%;
+    font-size: 3em;
+    position: relative;
+    text-align: center;
+  
+  }
