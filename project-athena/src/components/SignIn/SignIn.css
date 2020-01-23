@@ -1,0 +1,20 @@
+h1
+{
+    color: black;
+    text-align: center;
+    
+   
+}
+
+Form {
+    margin-top: 20%;
+    background-color: #FFBBBB;
+    padding: 50px;
+    color: white;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
+}
+
+a{
+    color: black;
+}
+
