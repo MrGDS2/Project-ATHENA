@@ -3,6 +3,7 @@ import Form from 'react-bootstrap/Form';
 import Button from 'react-bootstrap/Button';
 
 import '../SignIn/SignIn.css';
+//import {FirebaseContext } from '../Firbase';
 
 const SignInForm = () => (
 
@@ -28,11 +29,17 @@ const SignInForm = () => (
   </Form.Group>
 
  
-
 <Button className="button" variant="light" type="submit">
     Sign In
   </Button>
+
 </Form>
+
+
+
+
 )
+
+
 
 export default SignInForm;
